@@ -35,14 +35,10 @@ span{
     margin-bottom: 80px;
     background-image: url(7.png);
     background-repeat: no-repeat;
-    
-    
+    background-size: cover;
 }
 .half-width-area{
     width: 50%;
-    
-    
-    
 }
 .half-width-area img{
     width: 50%;
@@ -67,10 +63,8 @@ span{
     h2{
         text-align: center;
     }
-    
-    }
     .My-recipie{
-        margin-top: 150px;
+        margin-top: 80px;
     }
     .My-recipie p{
         text-align: center;
