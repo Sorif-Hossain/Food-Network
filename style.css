@@ -32,6 +32,7 @@ span{
 .flex-container{
     display: flex;
     margin-top: 50px;
+    margin-bottom: 80px;
     background-image: url(7.png);
     
     
@@ -65,6 +66,65 @@ span{
     h2{
         text-align: center;
     }
-    p{
+    
+    }
+    .My-recipie{
+        margin-top: 150px;
+    }
+    .My-recipie p{
         text-align: center;
     }
+    .flex-area{
+        display: flex;
+        }
+    .flex-area img{
+        width: 80%;
+    }
+    .inline{
+        padding-left: 2%;
+        box-shadow: 2px 2px 2px 2px gray;
+    }
+    .food-Recipie{
+        box-shadow: 0px 0px 25px  gray;
+        border-radius: 20px;
+        width: 100%;
+        margin-left: 3%;
+        padding-left: 15px;
+        margin-right: 3%;
+        }
+    .food-Recipie img{
+        margin-top: 20px;
+        width: 90%;
+        padding-left: 10px;
+    }
+    .social-media{
+        display: flex;
+        margin-top: 100px;
+        margin-left: 10%;
+        margin-right: 10%;
+        box-shadow: 0px 0px 25px gray;
+        padding-left: 20px;
+        border-radius: 10px 15px;
+        
+    }
+    .social-media-count{
+        width: 15%;
+        margin-left: 15%;
+        font-size: 18px;
+        
+    }
+    footer{
+        text-align: center;
+        margin-top: 100px;
+        background-color:rgb(95, 29, 95) ;
+        font: 700px;
+        padding: 30px 50px;
+        color: wheat;
+    }
+
+    
+    
+    
+    
+        
+    
